@@ -1,4 +1,4 @@
-import { API_URL } from '../env'
+import { API_URL } from './constants/env'
 import './App.css'
 
 function App() {
