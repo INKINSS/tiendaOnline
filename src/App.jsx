@@ -4,7 +4,7 @@ import './App.css'
 function App() {
 
   return (
-    <h1>hola { API_URL }</h1>
+    <h1>adios { API_URL }</h1>
   )
 }
 
