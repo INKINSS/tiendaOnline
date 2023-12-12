@@ -1,0 +1,47 @@
+[33mcommit e243fa671f28f10da628b8d583ddf8c65d3f2f30[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: Samuel Perez <martinsamuelpp@gmail.com>
+Date:   Thu Dec 7 08:12:36 2023 -0600
+
+    añadiendo pagina 404 e instalacion de sass
+
+[33mcommit 220befe42207191c67f679298c6b1446c0c1e90c[m
+Author: Samuel Perez <martinsamuelpp@gmail.com>
+Date:   Wed Dec 6 15:21:20 2023 -0600
+
+    configuracion de rutas, creacion de menu
+
+[33mcommit aebb6e8c1a2cec9a3c72f70ff2e7c869712d83e7[m
+Author: Samuel Perez <martinsamuelpp@gmail.com>
+Date:   Wed Dec 6 14:28:59 2023 -0600
+
+    creando estructura de carpetas
+
+[33mcommit 54e212e40fcbf6ad8a3a5a4461ca91fddbc9eef6[m
+Author: Samuel Perez <martinsamuelpp@gmail.com>
+Date:   Wed Dec 6 09:26:17 2023 -0600
+
+    agregando en desarrollo
+
+[33mcommit 1309b195352d081345b48bd414c15715117cc914[m
+Author: Samuel Perez <martinsamuelpp@gmail.com>
+Date:   Wed Dec 6 09:07:56 2023 -0600
+
+    inicio de proyecto tiendaOnline
+
+[33mcommit 5111d3fbbd78903fe0b4210fe33d8e2b601f52dc[m
+Author: Samuel Perez <martinsamuelpp@gmail.com>
+Date:   Wed Dec 6 09:03:03 2023 -0600
+
+    agregando variables de entorno
+
+[33mcommit a26cb0e29a18db4b26549908750f9bbe2ad85fed[m
+Author: Samuel Perez <martinsamuelpp@gmail.com>
+Date:   Wed Dec 6 09:02:04 2023 -0600
+
+    eslint y configuracion agregada
+
+[33mcommit 0c5f0cccb5fcff67b00f9d7fa909483e85c0b6ad[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Samuel Perez <martinsamuelpp@gmail.com>
+Date:   Wed Dec 6 08:42:35 2023 -0600
+
+    inicio de proyecto tiendaOnline

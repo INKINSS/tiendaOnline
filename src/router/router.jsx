@@ -3,6 +3,7 @@ import Products from "../components/products/products";
 import Schema from "../templates/schema";
 import App from "../App";
 import Error404 from "../pages/404/404";
+import Login from "../pages/login/login";
 
 const router = createBrowserRouter([
     {
@@ -19,6 +20,10 @@ const router = createBrowserRouter([
                 element: <Products />
             }
         ]
+    },
+    {
+        path: '/login',
+        element: <Login />
     }
 ])
 

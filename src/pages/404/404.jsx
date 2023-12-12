@@ -1,5 +1,5 @@
 import React from 'react'
-import './404.module.scss'
+import './404.scss'
 import { Link } from 'react-router-dom'
 
 const Error404 = () => {
@@ -16,7 +16,7 @@ const Error404 = () => {
                 <section className='bodyMessageError'>
                     <h2>Lo sentimos...</h2>
                     <p>parece que la pagina que quiere visitar <strong>no existe</strong>, puedes volver a la página principal aqui. </p>
-                    <button><Link className='button' to='/'>regresar</Link></button>
+                    <button className='buttonError'><Link className='button' to='/'>regresar</Link></button>
                 </section>
             </div>
         </main>
